@@ -2,9 +2,10 @@
 A React Native component for daily fantasy football players (IOS only). 
 
 # Inspiration
-Inspired from www.dribbble.com
+Inspired by Ali Aas from Dribbble
+https://dribbble.com/shots/3161884-Start-Sit-Concept
 
-![dfsreact_inpiration](https://dribbble.com/shots/3161884-Start-Sit-Concept)
+![dfsreact_inpiration](https://github.com/justreallygood/DFSreact/blob/master/example.png)
 
 # Demo
 ![dfsreact_ios_demo](https://github.com/justreallygood/DFSreact/blob/master/screenshot.gif)
