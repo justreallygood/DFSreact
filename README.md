@@ -1,5 +1,5 @@
 # DFSreact
-A React Native component for daily fantasy football players (IOS only). 
+A React Native component for daily fantasy football players (IOS only). Includes official NFL colors for each team.
 
 # Inspiration
 Inspired by Ali Aas from Dribbble
