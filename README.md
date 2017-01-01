@@ -1,7 +1,15 @@
 # DFSreact
-A React Native component for daily fantasy football players (IOS only)
+A React Native component for daily fantasy football players (IOS only). 
 
-![nbareact_ios_demo](https://github.com/justreallygood/DFSreact/blob/master/screenshot.gif)
+# Inspiration
+Inspired from www.dribbble.com
+
+![dfsreact_inpiration](https://dribbble.com/shots/3161884-Start-Sit-Concept)
+
+# Demo
+![dfsreact_ios_demo](https://github.com/justreallygood/DFSreact/blob/master/screenshot.gif)
+
+
 
 ##### Usage and Quick example here
 ```javascript
