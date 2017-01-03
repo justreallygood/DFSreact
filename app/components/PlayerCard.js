@@ -13,7 +13,7 @@ import {
   StyleSheet,
 } from 'react-native';
 
-import FlipCard from './FlipCard';
+import FlipCard from 'react-native-flip-card';
 import PlayerCardFront from './PlayerCardFront';
 import PlayerCardBack from './PlayerCardBack';
 import styles from './PlayerCardStyles';
@@ -30,7 +30,7 @@ export default class PlayerCard extends Component {
 
     return (
       <FlipCard
-        style={styles.card}
+        style={styles.flipCard}
         friction={5}
         perspective={3500}
         flipHorizontal={true}
@@ -86,9 +86,6 @@ export default class PlayerCard extends Component {
       </View>
     </FlipCard>
 
-
-
-
     );
   }
 }
@@ -101,7 +98,7 @@ PlayerCard.propTypes = {
   playerType: PropTypes.string, // QB, RB, WR, TE, K, DST
   playerRank: PropTypes.number,
   playerLocation: PropTypes.bool, // home=true, away=false
-  playerTeam: PropTypes.string, // 3 letter team code
+  playerTeam: PropTypes.string, // 2 or 3 letter team code
   score: PropTypes.number,
   firstName: PropTypes.string,
   lastName: PropTypes.string,
