@@ -255,8 +255,6 @@ module.exports = StyleSheet.create({
     backgroundColor: 'grey',
     flexDirection: 'row',
     justifyContent: 'space-around',
-
-
   },
   stats: {
     alignItems: 'center',
@@ -272,4 +270,8 @@ module.exports = StyleSheet.create({
     fontFamily: 'Futura',
     textAlign: 'center',
   },
+  flipCard: {
+    flex: 1,
+    borderWidth: 0
+  }
 });
