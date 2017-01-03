@@ -61,7 +61,7 @@ class DFSreact extends Component {
 
             <PlayerCard
               playerType="QB"
-              playerRank={1}
+              playerRank={16}
               playerLocation={true}
               playerTeam="WAS"
               score={18}
@@ -89,15 +89,8 @@ class DFSreact extends Component {
         </ScrollView>
       </View>
 
-
-
-
-
       );
     }
   }
-
-
-
 
 AppRegistry.registerComponent('DFSreact', () => DFSreact);
