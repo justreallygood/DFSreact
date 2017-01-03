@@ -10,7 +10,11 @@ https://dribbble.com/shots/3161884-Start-Sit-Concept
 # Demo
 ![dfsreact_ios_demo](https://github.com/justreallygood/DFSreact/blob/master/screenshot.gif)
 
+# Resources Used
 
+[React Native](https://github.com/facebook/react-native)
+
+[React-Native-Flip-Card](https://github.com/moschan/react-native-flip-card)
 
 ##### Usage and Quick example here
 ```javascript
