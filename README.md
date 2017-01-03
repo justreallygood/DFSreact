@@ -122,5 +122,7 @@ AppRegistry.registerComponent('DFSreact', () => DFSreact);
     npm install -g react-native-cli
     git clone https://github.com/justreallygood/DFSreact.git && cd DFSreact
     npm install
+    
+    npm i react-native-flip-card
 
     react-native run-ios
